@@ -1,0 +1,19 @@
+#Greenfoot properties
+#Wed Sep 05 12:21:25 CEST 2018
+class.Cactus.superclass=Food
+class.Teddy.image=teddybear.png
+class.Food.superclass=greenfoot.Actor
+mainWindow.width=850
+class.Pizza.superclass=Food
+class.Baby.image=baby1.png
+class.MyWorld.superclass=greenfoot.World
+class.Cactus.image=cactus.png
+project.charset=UTF-8
+version=3.0.0
+class.Pizza.image=pizza_cheese.png
+class.Baby.superclass=greenfoot.Actor
+world.lastInstantiated=MyWorld
+mainWindow.y=40
+class.Teddy.superclass=Food
+mainWindow.x=40
+mainWindow.height=600
