@@ -1,0 +1,16 @@
+#Greenfoot properties
+#Tue Sep 11 12:59:03 CEST 2018
+class.Vare.superclass=greenfoot.Actor
+mainWindow.width=850
+class.Lager.superclass=greenfoot.Actor
+class.MyWorld.superclass=greenfoot.World
+project.charset=UTF-8
+version=3.0.0
+class.Butik.superclass=greenfoot.Actor
+class.Kategori.superclass=greenfoot.Actor
+world.lastInstantiated=MyWorld
+mainWindow.y=40
+class.Butikslager.superclass=Lager
+mainWindow.x=40
+class.HovedLager.superclass=Lager
+mainWindow.height=600
