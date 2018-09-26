@@ -24,3 +24,6 @@ hs_err_pid*
 /JavaFXStart/nbproject/private/
 /JavaFXStart/build/
 /JavaFXStart/dist/
+/3LayerExample/nbproject/private/
+/3LayerExample/dist/
+/3LayerExample/build/
