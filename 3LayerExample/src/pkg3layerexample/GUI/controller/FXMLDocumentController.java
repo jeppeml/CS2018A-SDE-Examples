@@ -32,7 +32,7 @@ public class FXMLDocumentController implements Initializable {
     private void handleButtonAction(ActionEvent event) {
         System.out.println("You clicked me!");
         String input = txtInput.getText();
-        lblOutput.setText(textConverter.lavUpperCase(input));
+        lblOutput.setText(textConverter.lavUpDown(input));
     }
     
     @Override
