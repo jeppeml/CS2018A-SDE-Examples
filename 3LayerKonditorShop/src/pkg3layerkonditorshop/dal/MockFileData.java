@@ -12,6 +12,11 @@ import pkg3layerkonditorshop.be.Produkt;
  *
  * @author jeppjleemoritzled
  */
-public interface DalManager {
-    public List<Produkt> getAllProdukts();
+public class MockFileData implements DalManager{
+
+    @Override
+    public List<Produkt> getAllProdukts() {
+        return FileManager.getInstance().getAllProducts();
+    }
+    
 }

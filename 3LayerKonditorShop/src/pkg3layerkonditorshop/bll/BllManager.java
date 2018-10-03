@@ -7,14 +7,14 @@ package pkg3layerkonditorshop.bll;
 
 import java.util.List;
 import pkg3layerkonditorshop.be.Produkt;
-import pkg3layerkonditorshop.dal.DalManager;
+import pkg3layerkonditorshop.dal.*;
 
 /**
  *
  * @author jeppjleemoritzled
  */
 public class BllManager {
-    DalManager dalManager = new DalManager();
+    DalManager dalManager = new MockFileData();
     
     double avance = 350;
     
@@ -31,6 +31,6 @@ public class BllManager {
     
     private double beregnSalgsPris(double kostPris)
     {
-        return kostPris/100*avance;
+        return Math.round((kostPris/100*avance)*100)/100.0;
     }
 }
