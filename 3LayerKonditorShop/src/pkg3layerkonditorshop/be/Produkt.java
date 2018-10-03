@@ -5,13 +5,14 @@
  */
 package pkg3layerkonditorshop.be;
 
+
 import java.util.List;
 
 /**
  *
  * @author jeppjleemoritzled
  */
-public class Produkt {
+public class Produkt{
 
     private double salgsPris;
     private double kostPris;
@@ -74,6 +75,5 @@ public class Produkt {
     public String toString() {
         return navn + " pris: " + salgsPris + "$";
     }
-
     
 }

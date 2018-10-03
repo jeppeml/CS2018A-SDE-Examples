@@ -1,0 +1,1001 @@
+id,navn,kostPris,popularitet,salgsPris
+1,Pail For Lid 1537cake,81.71,4,-1.0
+2,Syrup - Kahlua Chocolatecake,83.57,3,-1.0
+3,Broom And Broom Rack Whitecake,60.32,3,-1.0
+4,Muffin Carrot - Individualcake,26.25,1,-1.0
+5,Juice Peach Nectarcake,77.5,4,-1.0
+6,"Wine - White French Crosscake",18.07,4,-1.0
+7,Pork - Groundcake,69.63,1,-1.0
+8,Bonito Flakes - Toku Katsuocake,21.29,5,-1.0
+9,Bay Leafcake,33.78,3,-1.0
+10,"Pepsi - Diet 355 Mlcake",58.27,4,-1.0
+11,Salmon Steak - Cohoe 8 Ozcake,68.57,4,-1.0
+12,Versatainer Nc - 8288cake,31.56,3,-1.0
+13,Banana - Greencake,75.61,3,-1.0
+14,Loquatcake,50.79,1,-1.0
+15,"Coke - Diet 355 Mlcake",42.4,5,-1.0
+16,Pie Filling - Cherrycake,10.44,1,-1.0
+17,Tomatoes - Heirloomcake,54.48,2,-1.0
+18,"Soup - Campbells Minestronecake",64.96,3,-1.0
+19,Soup - Campbells Beef Strogonoffcake,41.24,3,-1.0
+20,Muffin Batt - Ban Dream Zerocake,94.47,3,-1.0
+21,Milk - 2% 250 Mlcake,58.15,5,-1.0
+22,Oil - Macadamiacake,99.45,4,-1.0
+23,Pastry - Banana Muffin - Minicake,57.71,4,-1.0
+24,Sprouts - Baby Pea Tendrilscake,5.73,1,-1.0
+25,"Rum - Dark, Bacardi, Blackcake",50.44,1,-1.0
+26,Table Cloth 62x114 Whitecake,82.92,5,-1.0
+27,Tea - Herbal I Love Lemoncake,69.47,4,-1.0
+28,Syrup - Monin - Passion Fruitcake,42.55,1,-1.0
+29,Chocolate - Darkcake,3.2,3,-1.0
+30,Bagels Poppyseedcake,35.52,1,-1.0
+31,"Tomatoes - Vine Ripe, Yellowcake",76.38,2,-1.0
+32,Wine - Ice Winecake,61.99,4,-1.0
+33,"Bread - Bagels, Plaincake",55.37,3,-1.0
+34,"Pasta - Linguini, Drycake",78.95,4,-1.0
+35,"Cup - 6oz, Foamcake",2.0,5,-1.0
+36,Dooleys Toffeecake,93.22,4,-1.0
+37,Nantucket Cranberry Juicecake,17.76,3,-1.0
+38,"Mushroom - Porcini, Drycake",19.15,1,-1.0
+39,Creme De Menth - Whitecake,37.59,5,-1.0
+40,"Oregano - Dry, Rubbedcake",68.1,4,-1.0
+41,Soup - Base Broth Chixcake,65.06,4,-1.0
+42,Clams - Baycake,7.89,1,-1.0
+43,Wine - Alsace Riesling Reservecake,34.32,1,-1.0
+44,Bread Base - Toscanocake,80.15,5,-1.0
+45,Monkfish Fresh - Skin Offcake,54.79,5,-1.0
+46,Thermometer Digitalcake,3.94,1,-1.0
+47,Cabbage - Greencake,7.02,4,-1.0
+48,"Bread - Roll, Italiancake",76.32,5,-1.0
+49,Beer - True North Lagercake,24.13,4,-1.0
+50,"Napkin - Dinner, Whitecake",62.59,3,-1.0
+51,Snapple Lemon Teacake,28.44,4,-1.0
+52,"Club Soda - Schweppes, 355 Mlcake",16.87,4,-1.0
+53,"Tuna - Canned, Flaked, Lightcake",93.71,4,-1.0
+54,Pecan Raisin - Tartscake,89.99,4,-1.0
+55,Bread - Bistro Whitecake,85.08,4,-1.0
+56,Apple - Royal Galacake,78.48,3,-1.0
+57,Muffin - Blueberry Individualcake,19.57,5,-1.0
+58,Beef - Montreal Smoked Brisketcake,43.34,1,-1.0
+59,Soup Campbells Mexicali Tortillacake,34.29,1,-1.0
+60,Shrimp - Black Tiger 6 - 8cake,21.98,5,-1.0
+61,Rice - Basmaticake,3.9,4,-1.0
+62,Chicken - Leg / Back Attachcake,28.02,4,-1.0
+63,Guavacake,82.63,1,-1.0
+64,Beef - Rib Eye Aaacake,25.36,3,-1.0
+65,"Beef - Cooked, Cornedcake",84.35,5,-1.0
+66,Table Cloth 62x114 Colourcake,91.17,1,-1.0
+67,Pastry - Baked Scones - Minicake,27.06,4,-1.0
+68,"Bread - Sticks, Thin, Plaincake",16.1,5,-1.0
+69,Island Oasis - Ice Cream Mixcake,92.94,1,-1.0
+70,Rambutancake,57.8,2,-1.0
+71,Broom And Broom Rack Whitecake,34.14,5,-1.0
+72,Pepper - Jalapenocake,96.12,3,-1.0
+73,"Pepper - White, Wholecake",46.97,4,-1.0
+74,Rabbit - Legscake,37.69,3,-1.0
+75,Rice Wine - Aji Mirincake,24.28,4,-1.0
+76,Yogurt - French Vanillacake,65.27,1,-1.0
+77,Tarts Assortedcake,84.46,3,-1.0
+78,Pie Shell - 9cake,26.48,1,-1.0
+79,Chives - Freshcake,52.67,5,-1.0
+80,Pastry - Choclate Bakedcake,81.1,4,-1.0
+81,Appetizer - Crab And Briecake,1.53,1,-1.0
+82,Wine - Bouchard La Vignee Pinotcake,72.69,3,-1.0
+83,"Nut - Almond, Blanched, Groundcake",3.11,5,-1.0
+84,Sobe - Berry Energycake,72.93,4,-1.0
+85,Island Oasis - Pina Coladacake,25.64,1,-1.0
+86,"Cheese - Brie, Cups 125gcake",38.99,3,-1.0
+87,"Tortillas - Flour, 8cake",90.28,4,-1.0
+88,"Pasta - Lasagne, Freshcake",71.7,1,-1.0
+89,Miso - Soy Bean Pastecake,13.2,1,-1.0
+90,Coconut Milk - Unsweetenedcake,28.88,5,-1.0
+91,"Wine - White, Lindemans Bin 95cake",77.34,4,-1.0
+92,Container Clear 8 Ozcake,87.45,3,-1.0
+93,Tomatoes - Romacake,69.84,4,-1.0
+94,Melon - Cantaloupecake,29.82,2,-1.0
+95,Wine - Bouchard La Vignee Pinotcake,3.1,5,-1.0
+96,Juice - Prunecake,39.27,4,-1.0
+97,Soap - Pine Sol Floor Cleanercake,44.27,4,-1.0
+98,Corn - On The Cobcake,33.1,4,-1.0
+99,"Tomatoes - Diced, Cannedcake",27.27,5,-1.0
+100,Sugar - White Packetcake,59.99,1,-1.0
+101,"Bread - White, Slicedcake",68.63,4,-1.0
+102,Fennel - Seedscake,50.02,2,-1.0
+103,Table Cloth 53x53 Whitecake,91.61,4,-1.0
+104,"Lamb - Leg, Bone Incake",49.4,3,-1.0
+105,"Extract - Vanilla,artificialcake",73.93,4,-1.0
+106,Lettuce - Belgian Endivecake,18.01,2,-1.0
+107,Potatoes - Idaho 80 Countcake,80.11,5,-1.0
+108,Sprouts - China Rosecake,38.59,2,-1.0
+109,"Chicken - White Meat, No Tendercake",10.02,3,-1.0
+110,Catfish - Filletscake,54.22,3,-1.0
+111,Scotch - Queen Annecake,27.43,1,-1.0
+112,Beef - Short Loincake,86.85,1,-1.0
+113,Lemon Grasscake,46.27,1,-1.0
+114,Juice Peach Nectarcake,92.14,1,-1.0
+115,Beer - Pilsner Urquellcake,18.98,1,-1.0
+116,Longos - Chicken Curriedcake,5.5,3,-1.0
+117,Food Colouring - Redcake,57.66,2,-1.0
+118,"Jam - Strawberry, 20 Ml Jarcake",37.73,3,-1.0
+119,Soup - Campbells Bean Medleycake,81.64,1,-1.0
+120,Lamb - Shouldercake,10.22,1,-1.0
+121,Bread Roll Foccaciacake,14.12,5,-1.0
+122,"Veal - Brisket, Provimi, Bone - Incake",17.8,2,-1.0
+123,Crackers - Triocake,44.62,4,-1.0
+124,Wine - George Duboeuf Rosecake,74.33,2,-1.0
+125,Tea - Grapefruit Green Teacake,28.05,1,-1.0
+126,Squid U5 - Thailandcake,41.2,5,-1.0
+127,Bagelerscake,13.82,5,-1.0
+128,Soup - Tomato Mush. Florentinecake,62.8,4,-1.0
+129,Veal - Groundcake,81.68,1,-1.0
+130,"Fish - Scallops, Cold Smokedcake",94.9,5,-1.0
+131,Goat - Legcake,80.32,2,-1.0
+132,Peach - Halvescake,90.9,3,-1.0
+133,Wine - Barossa Valley Estatecake,60.28,2,-1.0
+134,Jolt Cola - Red Eyecake,53.88,2,-1.0
+135,Ham - Black Forestcake,52.96,3,-1.0
+136,Wine - Peller Estates Latecake,13.45,4,-1.0
+137,"Tart Shells - Sweet, 3cake",23.33,2,-1.0
+138,Buffalo - Striploincake,59.94,5,-1.0
+139,"Flour - Corn, Finecake",13.87,4,-1.0
+140,Sage Ground Wibergcake,89.88,3,-1.0
+141,"Beans - Black Bean, Cannedcake",34.97,1,-1.0
+142,Cheese - Montery Jackcake,81.86,1,-1.0
+143,Beans - Greencake,16.28,1,-1.0
+144,"Nut - Walnut, Piecescake",26.78,2,-1.0
+145,Capers - Ox Eye Daisycake,63.92,3,-1.0
+146,Cheese - Cottage Cheesecake,26.13,5,-1.0
+147,Bamboo Shoots - Slicedcake,61.01,1,-1.0
+148,Banana Turningcake,86.63,4,-1.0
+149,Wine - Jaboulet Cotes Du Rhonecake,21.59,1,-1.0
+150,Flour - Strongcake,44.26,2,-1.0
+151,Vinegar - Sherrycake,80.04,5,-1.0
+152,Dawn Professionl Pot And Pancake,68.43,4,-1.0
+153,Absolut Citroncake,28.38,4,-1.0
+154,Remy Red Berry Infusioncake,68.77,3,-1.0
+155,Anchovy Paste - 56 G Tubecake,74.24,3,-1.0
+156,"Beef - Ox Tongue, Pickledcake",7.41,2,-1.0
+157,Honey - Liquidcake,18.61,1,-1.0
+158,"Juice - V8, Tomatocake",8.89,4,-1.0
+159,"Beef - Ground, Extra Lean, Freshcake",98.25,4,-1.0
+160,"Lamb - Leg, Dicedcake",49.03,1,-1.0
+161,"Mushroom - Trumpet, Drycake",28.45,3,-1.0
+162,Trueblue - Blueberry 12x473mlcake,71.49,2,-1.0
+163,Coffee Cup 16oz Foamcake,6.48,2,-1.0
+164,Wine - Rhine Riesling Wolf Blasscake,63.99,4,-1.0
+165,Ecolab - Hand Soap Form Antibaccake,77.72,5,-1.0
+166,Truffle Shells - White Chocolatecake,68.86,2,-1.0
+167,Bread - Raisin Walnut Pullcake,24.72,1,-1.0
+168,Gherkin - Sourcake,64.45,2,-1.0
+169,Chutney Saucecake,21.86,2,-1.0
+170,Chips Potato Salt Vinegar 43gcake,66.04,5,-1.0
+171,Vol Au Ventscake,69.43,4,-1.0
+172,Cheese - Parmigiano Reggianocake,33.16,1,-1.0
+173,Lobakcake,92.06,5,-1.0
+174,Turnip - Waxcake,61.21,1,-1.0
+175,Beans - Butter Lrg Limacake,33.42,5,-1.0
+176,Puree - Passion Fruitcake,90.22,5,-1.0
+177,Corn Syrupcake,4.25,1,-1.0
+178,"Crab - Claws, Snow 16 - 24cake",26.88,5,-1.0
+179,Everfresh Productscake,30.18,5,-1.0
+180,"Sauce - Apple, Unsweetenedcake",62.7,5,-1.0
+181,Pasta - Cheese / Spinach Bauletticake,74.58,5,-1.0
+182,Flounder - Freshcake,97.01,3,-1.0
+183,Butcher Twine 4rcake,46.64,4,-1.0
+184,Wine - German Rieslingcake,2.26,3,-1.0
+185,Lemonscake,73.02,3,-1.0
+186,Kiwi Gold Zespricake,37.26,3,-1.0
+187,Mangosteincake,93.86,5,-1.0
+188,Pears - Bartlettcake,85.91,3,-1.0
+189,Beer - Frulicake,89.36,1,-1.0
+190,Wine - Remy Pannier Rosecake,35.43,4,-1.0
+191,Corn Syrupcake,17.76,1,-1.0
+192,"Pepsi, 355 Mlcake",94.2,4,-1.0
+193,Savorycake,49.31,5,-1.0
+194,Cheese - Augre Des Champscake,44.58,1,-1.0
+195,Wasabi Pastecake,92.38,3,-1.0
+196,"Pasta - Detalini, White, Freshcake",12.79,3,-1.0
+197,Banana - Leavescake,47.41,4,-1.0
+198,Wine - Magnotta - Cab Franccake,70.25,1,-1.0
+199,Blouse / Shirt / Sweatercake,7.96,1,-1.0
+200,Capicola - Hotcake,48.99,2,-1.0
+201,External Suppliercake,62.18,1,-1.0
+202,Pasta - Canellonicake,88.93,2,-1.0
+203,Compound - Passion Fruitcake,84.99,4,-1.0
+204,Apple - Granny Smithcake,64.38,1,-1.0
+205,Compound - Pearcake,17.12,3,-1.0
+206,Squash - Peppercake,62.24,4,-1.0
+207,"Sauce - White, Mixcake",33.17,3,-1.0
+208,Samosa - Vegcake,86.13,5,-1.0
+209,Tuna - Sushi Gradecake,32.56,2,-1.0
+210,Sauce - Soy Low Sodium - 3.87lcake,17.29,2,-1.0
+211,"Wine - Red, Lurton Merlot Decake",55.66,4,-1.0
+212,Crawfishcake,84.01,3,-1.0
+213,"Beans - Fava, Cannedcake",20.48,4,-1.0
+214,"Veal - Chops, Split, Frenchedcake",47.7,3,-1.0
+215,Sobe - Orange Carrotcake,55.94,1,-1.0
+216,Straw - Regularcake,15.35,5,-1.0
+217,Pepper - Scotch Bonnetcake,79.23,1,-1.0
+218,Mangoescake,15.67,3,-1.0
+219,Tea - Jasmin Greencake,92.29,3,-1.0
+220,Flower - Potmumscake,44.32,5,-1.0
+221,"Asparagus - Green, Freshcake",75.22,2,-1.0
+222,"Pasta - Lasagna, Drycake",50.55,2,-1.0
+223,Butcher Twine 4rcake,50.12,2,-1.0
+224,Muffin Mix - Banana Nutcake,92.39,4,-1.0
+225,"Wine - Red, Metus Rosecake",2.36,4,-1.0
+226,"Sauce - Bernaise, Mixcake",68.23,4,-1.0
+227,Veal - Slab Baconcake,30.26,1,-1.0
+228,Remy Red Berry Infusioncake,63.17,1,-1.0
+229,Amarula Creamcake,65.7,2,-1.0
+230,Oil - Macadamiacake,90.04,3,-1.0
+231,Spice - Montreal Steak Spicecake,88.39,2,-1.0
+232,Chicken - Bonescake,66.51,3,-1.0
+233,Tomato Pureecake,51.17,2,-1.0
+234,Jello - Assortedcake,80.2,1,-1.0
+235,Pickle - Dillcake,12.42,4,-1.0
+236,Tarragon - Freshcake,14.77,5,-1.0
+237,Wine - Kwv Chenin Blanc Southcake,36.9,1,-1.0
+238,"Wine - White, Ej Gallocake",10.77,1,-1.0
+239,Yokalinecake,98.62,5,-1.0
+240,Turnip - Minicake,26.78,5,-1.0
+241,Sultanascake,51.26,3,-1.0
+242,Flour Dark Ryecake,88.42,4,-1.0
+243,Bread - Mini Hamburger Buncake,24.46,1,-1.0
+244,"Sauce - Soya, Darkcake",30.98,1,-1.0
+245,Bread - Burgercake,5.15,3,-1.0
+246,Lobster - Canned Premiumcake,44.38,3,-1.0
+247,"Pasta - Bauletti, Chicken Whitecake",3.26,2,-1.0
+248,Milk - Skimcake,83.67,5,-1.0
+249,"Cup - 6oz, Foamcake",76.23,4,-1.0
+250,Butter - Unsaltedcake,67.23,3,-1.0
+251,Olives - Morracan Diredcake,44.9,4,-1.0
+252,"Capon - Breast, Wing Oncake",81.59,5,-1.0
+253,Venison - Racks Frenchedcake,20.46,2,-1.0
+254,Steam Pan - Half Size Deepcake,92.38,1,-1.0
+255,Crush - Cream Sodacake,13.09,5,-1.0
+256,Duck - Breastcake,4.92,1,-1.0
+257,Nescafe - Frothy French Vanillacake,50.52,2,-1.0
+258,Mangoescake,87.83,2,-1.0
+259,Lettuce - Baby Salad Greenscake,43.46,2,-1.0
+260,Beets - Goldencake,43.27,5,-1.0
+261,Cup - Translucent 7 Oz Clearcake,14.48,4,-1.0
+262,Cocoa Powder - Naturalcake,51.29,2,-1.0
+263,Soup V8 Roasted Red Peppercake,66.61,5,-1.0
+264,Sauce - Fish 25 Ozf Bottlecake,48.37,5,-1.0
+265,Eggplant Orientalcake,33.41,1,-1.0
+266,Lychee - Cannedcake,24.63,4,-1.0
+267,Cleaner - Cometcake,7.73,5,-1.0
+268,"Artichoke - Bottom, Cannedcake",78.34,1,-1.0
+269,Bagel - Ched Chs Preslicedcake,37.71,4,-1.0
+270,Wine - Shiraz Wolf Blass Premiumcake,47.42,2,-1.0
+271,Chickensplit Halfcake,45.77,1,-1.0
+272,Allspice - Jamaicancake,12.68,1,-1.0
+273,Coconut Milk - Unsweetenedcake,77.23,3,-1.0
+274,Truffle - Whole Black Peeledcake,70.19,3,-1.0
+275,Rum - Mount Gay Eclipescake,82.1,3,-1.0
+276,Soap - Hand Soapcake,56.23,3,-1.0
+277,Pepper - Cubanellecake,1.6,5,-1.0
+278,Shrimp - 100 / 200 Cold Watercake,64.85,4,-1.0
+279,Appetizer - Tarragon Chickencake,86.79,1,-1.0
+280,"Pasta - Lasagne, Freshcake",14.43,2,-1.0
+281,Langers - Cranberry Cocktailcake,19.89,2,-1.0
+282,Pastry - Mini French Pastriescake,64.08,1,-1.0
+283,"Wine - Sherry Dry Sack, Williamcake",76.67,3,-1.0
+284,Snapple - Iced Tea Peachcake,52.14,3,-1.0
+285,Sobe - Orange Carrotcake,69.67,2,-1.0
+286,Gatorade - Orangecake,90.23,1,-1.0
+287,Lobster - Canned Premiumcake,44.02,3,-1.0
+288,Bread Base - Goodhearthcake,48.59,3,-1.0
+289,Assorted Dessertscake,31.27,3,-1.0
+290,Liners - Baking Cupscake,50.16,4,-1.0
+291,"Salsify, Organiccake",26.36,5,-1.0
+292,Sugar - Finecake,58.12,2,-1.0
+293,"Pepper - Black, Crushedcake",29.6,5,-1.0
+294,Relishcake,95.02,2,-1.0
+295,Pancettacake,12.27,2,-1.0
+296,Muffin Mix - Raisin Brancake,26.33,5,-1.0
+297,"Juice - V8, Tomatocake",71.78,4,-1.0
+298,"Bar Mix - Pina Colada, 355 Mlcake",58.85,1,-1.0
+299,Wine - Barolo Fontanafreddacake,94.86,2,-1.0
+300,"Lamb - Whole, Frozencake",93.95,3,-1.0
+301,"Sugar - Sweet N Low, Individualcake",48.63,4,-1.0
+302,"Wine - White, Riesling, Henry Ofcake",73.75,1,-1.0
+303,"Juice - Clam, 46 Ozcake",77.5,5,-1.0
+304,Wine - Prosecco Valdobiaddenecake,46.38,1,-1.0
+305,Cake - Bande Of Fruitcake,74.3,5,-1.0
+306,Soap - Hand Soapcake,94.11,4,-1.0
+307,Taro Leavescake,79.44,1,-1.0
+308,"Cheese - Boursin, Garlic / Herbscake",36.0,2,-1.0
+309,Clementinecake,1.8,2,-1.0
+310,Gooseberrycake,60.27,4,-1.0
+311,Foie Grascake,18.44,5,-1.0
+312,"Yogurt - Peach, 175 Grcake",18.02,1,-1.0
+313,Beef - Short Ribscake,39.86,1,-1.0
+314,"Spoon - Soup, Plasticcake",26.79,1,-1.0
+315,"Crab - Back Fin Meat, Cannedcake",41.76,2,-1.0
+316,Flower - Potmumscake,62.5,3,-1.0
+317,Wine - Duboeuf Beaujolaiscake,93.05,1,-1.0
+318,Filling - Mince Meatcake,10.23,2,-1.0
+319,Oyster - In Shellcake,95.72,1,-1.0
+320,"Bread - White, Slicedcake",18.39,5,-1.0
+321,Clam Nectarcake,40.85,1,-1.0
+322,"Cheese - Havarti, Salsacake",35.43,4,-1.0
+323,Parsley Italian - Freshcake,30.05,2,-1.0
+324,"Nut - Pecan, Halvescake",57.89,1,-1.0
+325,Soup - Campbells Beef Strogonoffcake,38.62,2,-1.0
+326,Wine - Remy Pannier Rosecake,23.17,2,-1.0
+327,Beans - Finecake,63.25,1,-1.0
+328,Soup Bowl Clear 8oz92008cake,75.05,4,-1.0
+329,Plate Pie Foilcake,90.25,2,-1.0
+330,Five Alive Citruscake,83.63,3,-1.0
+331,Soup V8 Roasted Red Peppercake,9.62,1,-1.0
+332,"Beans - Kidney, Cannedcake",66.24,4,-1.0
+333,Beef - Top Buttcake,81.42,3,-1.0
+334,Carbonated Water - Peachcake,21.57,2,-1.0
+335,Sobe - Tropical Energycake,87.32,3,-1.0
+336,Fenngreek Seedcake,72.81,2,-1.0
+337,Pimento - Cannedcake,67.81,4,-1.0
+338,Pie Filling - Applecake,24.59,3,-1.0
+339,Lid Tray - 16in Domecake,9.99,4,-1.0
+340,Table Cloth 54x72 Colourcake,99.63,3,-1.0
+341,Carbonated Water - Blackcherrycake,84.65,3,-1.0
+342,Tomatoes - Romacake,2.0,4,-1.0
+343,"Capon - Breast, Double, Wing Oncake",48.58,2,-1.0
+344,Oneshot Automatic Soap Systemcake,23.64,3,-1.0
+345,Fennel - Seedscake,38.72,4,-1.0
+346,"Wine - Red, Colio Cabernetcake",78.75,3,-1.0
+347,Creme De Cacao Whitecake,49.17,4,-1.0
+348,Cheese - Colbycake,58.18,1,-1.0
+349,"Oil - Olive, Extra Virgincake",53.53,5,-1.0
+350,Chicken - Tenderloincake,63.11,3,-1.0
+351,Flower - Daisiescake,80.22,2,-1.0
+352,Pork - Groundcake,84.91,1,-1.0
+353,Table Cloth 53x69 Whitecake,20.26,3,-1.0
+354,"Syrup - Golden, Lylescake",4.83,1,-1.0
+355,Sugar Thermometercake,45.65,2,-1.0
+356,Beef - Short Loincake,87.54,3,-1.0
+357,Urban Zen Drinkscake,34.29,4,-1.0
+358,"Juice - Cranberry, 341 Mlcake",37.17,1,-1.0
+359,"Crab - Claws, Snow 16 - 24cake",22.53,2,-1.0
+360,Beer - Mcauslan Apricotcake,70.79,5,-1.0
+361,Schnappes Peppermint - Walkercake,25.45,3,-1.0
+362,Syrup - Chocolatecake,94.85,5,-1.0
+363,Flower - Leather Leaf Ferncake,87.85,3,-1.0
+364,Sauce - Hoisincake,90.63,4,-1.0
+365,Ostrich - Fan Filletcake,40.15,4,-1.0
+366,Wine - Sogrape Mateus Rosecake,91.6,2,-1.0
+367,Wine - Riesling Dr. Paulycake,96.51,4,-1.0
+368,"Wine - Magnotta, Merlot Sr Vqacake",55.63,3,-1.0
+369,Soup - Campbells Pasta Fagiolicake,41.33,3,-1.0
+370,Juice - Orange 1.89lcake,59.55,2,-1.0
+371,Nectarinescake,32.85,4,-1.0
+372,Bagelers - Cinn / Brown Sugarcake,22.01,4,-1.0
+373,Barramundicake,80.73,3,-1.0
+374,Pears - Anjoucake,7.8,2,-1.0
+375,Calypso - Lemonadecake,88.69,2,-1.0
+376,Olives - Kalamatacake,24.01,2,-1.0
+377,Chicken - Groundcake,85.7,1,-1.0
+378,Bouq All Italian - Primerbacake,70.06,1,-1.0
+379,Madeiracake,12.38,3,-1.0
+380,Almonds Ground Blanchedcake,44.52,5,-1.0
+381,Flour Dark Ryecake,49.5,1,-1.0
+382,Chips - Doritoscake,92.09,3,-1.0
+383,Soup V8 Roasted Red Peppercake,93.71,5,-1.0
+384,Coriander - Groundcake,22.57,1,-1.0
+385,Potatoes - Pei 10 Ozcake,8.71,2,-1.0
+386,Ham - Cooked Bayonne Tinnedcake,59.81,4,-1.0
+387,Sauce - Plumcake,65.94,1,-1.0
+388,Wine - Niagara Peninsula Vqacake,54.5,5,-1.0
+389,Beef - Texas Style Burgercake,65.0,3,-1.0
+390,Beer - Blue Lightcake,74.17,4,-1.0
+391,French Kiss Vanillacake,97.08,3,-1.0
+392,Cinnamon Buns Stickycake,24.49,4,-1.0
+393,Neckerchief Blckcake,44.86,3,-1.0
+394,Squash - Sunburstcake,84.68,3,-1.0
+395,Smoked Tonguecake,24.67,2,-1.0
+396,Oregano - Freshcake,16.46,3,-1.0
+397,Cherries - Freshcake,30.28,1,-1.0
+398,"Bread - Sticks, Thin, Plaincake",13.8,5,-1.0
+399,Cheese - Parmesan Gratedcake,65.14,4,-1.0
+400,Cheese - Pont Couvertcake,50.63,3,-1.0
+401,Buttonscake,1.03,3,-1.0
+402,"Wine - Mas Chicet Rose, Vintagecake",41.96,1,-1.0
+403,Wine - Casillero Del Diablocake,69.13,3,-1.0
+404,Wasabi Pastecake,57.57,3,-1.0
+405,Magnotta - Bel Paese Whitecake,20.01,5,-1.0
+406,Ham - Black Forestcake,37.57,2,-1.0
+407,Turnip - Whitecake,63.58,4,-1.0
+408,"Rum - Cream, Amarulacake",74.92,2,-1.0
+409,Coffee Cup 8oz 5338cdcake,25.28,2,-1.0
+410,Quail - Jumbocake,26.49,3,-1.0
+411,Wine - Riesling Alsace Ac 2001cake,72.42,2,-1.0
+412,Five Alive Citruscake,81.46,5,-1.0
+413,Coffee - Frthy Coffee Crispcake,51.61,1,-1.0
+414,Currantscake,3.29,4,-1.0
+415,Beef - Dicedcake,80.28,3,-1.0
+416,"Fish - Atlantic Salmon, Coldcake",39.16,2,-1.0
+417,"Club Soda - Schweppes, 355 Mlcake",44.23,5,-1.0
+418,Miso Paste Whitecake,98.72,3,-1.0
+419,"Turkey - Whole, Freshcake",47.42,2,-1.0
+420,"Turkey - Breast, Bone - Incake",58.77,2,-1.0
+421,Cup - Translucent 7 Oz Clearcake,90.41,1,-1.0
+422,Flower - Commercial Spidercake,73.4,2,-1.0
+423,Ice Cream - Turtles Stick Barcake,31.58,3,-1.0
+424,Cod - Black Whole Filletcake,39.32,5,-1.0
+425,Flour - So Mix Cake Whitecake,31.32,1,-1.0
+426,Glycerinecake,29.56,2,-1.0
+427,Raspberries - Frozencake,40.77,4,-1.0
+428,Appetiser - Boughtcake,78.92,3,-1.0
+429,"Garlic - Primerba, Pastecake",98.01,5,-1.0
+430,Apricots - Halvescake,39.0,5,-1.0
+431,"Crab - Dungeness, Whole, livecake",10.68,3,-1.0
+432,Mushroom - Chanterelle Frozencake,90.14,1,-1.0
+433,"Chicken - Breast, 5 - 7 Ozcake",8.0,5,-1.0
+434,Cheese - Cheddarslicedcake,46.51,2,-1.0
+435,"Lemonade - Kiwi, 591 Mlcake",38.44,5,-1.0
+436,"Turkey - Breast, Bone - Incake",84.88,3,-1.0
+437,"Pasta - Spaghetti, Drycake",29.43,3,-1.0
+438,Wine - Chenin Blanc K.w.v.cake,29.8,5,-1.0
+439,Alize Gold Passioncake,59.56,3,-1.0
+440,Swiss Chardcake,61.49,4,-1.0
+441,Bread - 10 Graincake,85.14,5,-1.0
+442,Longancake,67.0,1,-1.0
+443,"Crab - Claws, Snow 16 - 24cake",25.39,5,-1.0
+444,Lobster - Livecake,96.65,4,-1.0
+445,Fireball Whiskycake,52.36,5,-1.0
+446,Beef - Cow Feet Splitcake,93.7,5,-1.0
+447,Ecolab - Solid Fusioncake,99.97,5,-1.0
+448,Pastry - French Mini Assortedcake,23.08,1,-1.0
+449,"Fish - Artic Char, Cold Smokedcake",81.06,4,-1.0
+450,"Soup - Knorr, French Onioncake",70.46,3,-1.0
+451,Kiwicake,58.68,3,-1.0
+452,Steel Woolcake,16.46,2,-1.0
+453,Bread Cranberry Foccaciacake,62.55,4,-1.0
+454,Garlic - Elephantcake,15.74,5,-1.0
+455,"Veal - Chops, Split, Frenchedcake",28.35,1,-1.0
+456,Fudge - Chocolate Fudgecake,53.1,2,-1.0
+457,"Chicken - Breast, 5 - 7 Ozcake",11.28,1,-1.0
+458,"Syrup - Monin, Amarettacake",48.56,4,-1.0
+459,"Nut - Peanut, Roastedcake",16.87,2,-1.0
+460,"Club Soda - Schweppes, 355 Mlcake",14.15,4,-1.0
+461,"Veal - Inside Round / Top, Leancake",31.16,5,-1.0
+462,Fudge - Cream Fudgecake,76.49,4,-1.0
+463,Garlic Powdercake,17.83,4,-1.0
+464,Ginger - Pickledcake,82.85,2,-1.0
+465,Kaffir Lime Leavescake,63.49,1,-1.0
+466,Flour - Cakecake,73.25,2,-1.0
+467,Pear - Pricklycake,30.01,2,-1.0
+468,Graham Cracker Mixcake,72.01,4,-1.0
+469,Crackers - Watercake,88.78,5,-1.0
+470,Camparicake,56.45,2,-1.0
+471,Sambuca - Opal Neracake,27.78,3,-1.0
+472,Sloe Gin - Mcguinnesscake,27.49,3,-1.0
+473,Lettuce - Sea / Sea Asparaguscake,50.89,1,-1.0
+474,Lid - 0090 Clearcake,16.75,1,-1.0
+475,Pepper - Jalapenocake,1.45,1,-1.0
+476,Kohlrabicake,40.03,1,-1.0
+477,Beer - Camerons Cream Alecake,48.95,1,-1.0
+478,Onions - Vidaliacake,63.1,2,-1.0
+479,"Pasta - Penne, Rigate, Drycake",56.55,2,-1.0
+480,Waffle Stixcake,13.05,4,-1.0
+481,Beans - Finecake,92.72,5,-1.0
+482,Milk - Homocake,19.77,1,-1.0
+483,Shallotscake,60.29,1,-1.0
+484,"Soup - Campbells, Spinach Crmcake",96.29,5,-1.0
+485,Soy Proteincake,30.7,5,-1.0
+486,Cheese - Grana Padanocake,93.34,4,-1.0
+487,Milk - 2%cake,7.29,5,-1.0
+488,"Rum - Cream, Amarulacake",3.07,4,-1.0
+489,Ham - Black Forestcake,19.93,5,-1.0
+490,"Soup - Campbells, Cream Ofcake",5.19,1,-1.0
+491,Soup - Campbells Beef Stewcake,39.68,1,-1.0
+492,Mangoescake,69.91,5,-1.0
+493,Mikes Hard Lemonadecake,71.91,2,-1.0
+494,Cream - 18%cake,34.26,4,-1.0
+495,Beef - Eye Of Roundcake,8.7,4,-1.0
+496,Shark - Loincake,41.61,4,-1.0
+497,"Olives - Green, Pittedcake",22.93,1,-1.0
+498,Wine - Two Oceans Cabernetcake,11.44,5,-1.0
+499,Cleaner - Bleachcake,56.51,4,-1.0
+500,Puree - Passion Fruitcake,11.34,1,-1.0
+501,Soup - Campbells Mac N Cheesecake,22.59,1,-1.0
+502,Lamb - Loin Chopscake,65.43,1,-1.0
+503,"Lid - High Heat, Super Clearcake",49.04,3,-1.0
+504,Chevere Logscake,54.63,3,-1.0
+505,Muffin - Mix - Bran And Maple 15lcake,66.74,5,-1.0
+506,Cornish Hencake,48.6,5,-1.0
+507,Sugar - Cubescake,72.64,2,-1.0
+508,Sauce - Salsacake,24.92,4,-1.0
+509,"Soup - Knorr, Veg / Beefcake",25.85,4,-1.0
+510,Bandage - Finger Cotscake,18.85,2,-1.0
+511,"Juice - Orange, 341 Mlcake",22.16,3,-1.0
+512,"Mushroom - Porcini, Drycake",65.06,4,-1.0
+513,Pastramicake,28.23,5,-1.0
+514,"Sparkling Wine - Rose, Freixenetcake",87.79,2,-1.0
+515,Fudge - Chocolate Fudgecake,12.86,5,-1.0
+516,Salami - Genovacake,53.7,2,-1.0
+517,V8 Petcake,78.84,1,-1.0
+518,Bread - Hamburger Bunscake,28.3,5,-1.0
+519,Cactus Padscake,84.0,2,-1.0
+520,Veal - Osso Buccocake,52.1,3,-1.0
+521,Lemonade - Pineapple Passioncake,9.48,4,-1.0
+522,Chocolate - Milk Coatingcake,82.16,1,-1.0
+523,Mushroom - Criminicake,53.72,2,-1.0
+524,"Radish - Black, Winter, Organiccake",90.41,3,-1.0
+525,"Soup - Beef, Base Mixcake",97.61,3,-1.0
+526,"Bread - Roll, Soft White Roundcake",62.53,2,-1.0
+527,Beer - Bluecake,68.31,1,-1.0
+528,Wine - Barbera Alba Doc 2001cake,1.88,3,-1.0
+529,Flower - Leather Leaf Ferncake,96.56,5,-1.0
+530,Zucchini - Yellowcake,17.07,1,-1.0
+531,Bacardi Breezer - Tropicalcake,35.44,2,-1.0
+532,Spinach - Frozencake,32.74,1,-1.0
+533,Vegetable - Basecake,59.71,4,-1.0
+534,"Veal - Chops, Split, Frenchedcake",87.01,3,-1.0
+535,Sauce - Ranch Dressingcake,45.13,2,-1.0
+536,Octopuscake,75.54,1,-1.0
+537,Wine - Rioja Campo Viejocake,17.66,2,-1.0
+538,Tomato - Greencake,71.7,1,-1.0
+539,Muffin Mix - Raisin Brancake,57.83,5,-1.0
+540,"Shrimp - 16 - 20 Cooked, Peeledcake",48.66,4,-1.0
+541,Butter Balls Saltedcake,66.69,3,-1.0
+542,Ham - Cookedcake,98.42,2,-1.0
+543,Sobe - Orange Carrotcake,26.25,5,-1.0
+544,"Oil - Truffle, Blackcake",43.3,3,-1.0
+545,Pail For Lid 1537cake,17.22,2,-1.0
+546,Lemon Balm - Freshcake,20.7,5,-1.0
+547,Wine - Ruffino Chianti Classicocake,26.17,2,-1.0
+548,Roe - White Fishcake,50.04,2,-1.0
+549,Wine - George Duboeuf Rosecake,34.71,2,-1.0
+550,Eel - Smokedcake,86.68,2,-1.0
+551,Bread - Flat Breadcake,30.27,2,-1.0
+552,Juice - Cranberry 284mlcake,72.37,4,-1.0
+553,"Sauce - Soya, Darkcake",72.3,3,-1.0
+554,Onions Granulatedcake,2.17,4,-1.0
+555,"Mushrooms - Black, Driedcake",20.74,2,-1.0
+556,Compound - Strawberrycake,5.05,2,-1.0
+557,Icecream - Dibscake,38.77,3,-1.0
+558,"Soup - Knorr, Chicken Gumbocake",99.4,5,-1.0
+559,Wine - Prosecco Valdobiaddenecake,39.49,5,-1.0
+560,Sauce - Roseecake,52.83,2,-1.0
+561,Squid - Breadedcake,18.85,4,-1.0
+562,Beer - Blue Lightcake,97.71,1,-1.0
+563,Silicone Paper 16.5x24cake,55.37,3,-1.0
+564,Cocoa Feuilletinecake,38.55,3,-1.0
+565,"Pork - Ham, Virginiacake",93.13,4,-1.0
+566,Sage - Freshcake,38.3,5,-1.0
+567,Pastry - Apple Largecake,18.65,2,-1.0
+568,Kumquatcake,47.59,2,-1.0
+569,"Soup - Canadian Pea, Dry Mixcake",49.48,5,-1.0
+570,Squeeze Bottlecake,34.07,4,-1.0
+571,Steam Pan Full Lidcake,32.52,4,-1.0
+572,Stainless Steel Cleaner Visioncake,50.44,2,-1.0
+573,Wine - Vineland Estate Semi - Drycake,94.01,2,-1.0
+574,Bread - Mini Hamburger Buncake,71.56,1,-1.0
+575,Cheese - Bakers Cream Cheesecake,54.08,3,-1.0
+576,Apple - Northern Spycake,69.63,1,-1.0
+577,"Split Peas - Green, Drycake",92.42,1,-1.0
+578,Crab - Meatcake,28.45,5,-1.0
+579,Bagel - Whole White Sesamecake,6.97,1,-1.0
+580,Berry Bruleecake,77.05,1,-1.0
+581,Soup Campbells Mexicali Tortillacake,92.26,2,-1.0
+582,Chocolate - Chips Compoundcake,99.83,3,-1.0
+583,Potatoes - Parissiennecake,34.02,4,-1.0
+584,Spice - Greek 1 Stepcake,13.96,1,-1.0
+585,Boogiescake,44.63,5,-1.0
+586,Corn Shootscake,64.02,2,-1.0
+587,Salt - Tablecake,64.02,3,-1.0
+588,Soup - Base Broth Chixcake,31.61,5,-1.0
+589,"Soup - Knorr, Veg / Beefcake",8.31,1,-1.0
+590,Lemon Balm - Freshcake,15.15,2,-1.0
+591,Peach - Freshcake,33.43,1,-1.0
+592,Orange - Bloodcake,19.82,1,-1.0
+593,Mikes Hard Lemonadecake,51.66,4,-1.0
+594,Cabbage Rollcake,16.24,4,-1.0
+595,"Mushroom - Enoki, Freshcake",26.13,4,-1.0
+596,Broom Handlecake,46.63,1,-1.0
+597,Veal - Bonescake,19.65,4,-1.0
+598,Coffee Beans - Chocolatecake,54.69,4,-1.0
+599,"Artichoke - Hearts, Cannedcake",11.65,1,-1.0
+600,"Napkin - Beverge, White 2 - Plycake",97.29,5,-1.0
+601,"Pail - 4l White, With Handlecake",81.83,3,-1.0
+602,"Pork - Back, Short Cut, Bonelesscake",17.31,2,-1.0
+603,V8 - Tropical Blendcake,80.29,2,-1.0
+604,"Beans - Black Bean, Drycake",8.13,1,-1.0
+605,Salami - Genovacake,29.94,1,-1.0
+606,Sugar - Icingcake,76.31,2,-1.0
+607,Carbonated Water - Cherrycake,50.45,4,-1.0
+608,Hagen Daza - Dk Choocolatecake,6.01,1,-1.0
+609,Dc - Sakura Fucake,69.21,1,-1.0
+610,Plums - Redcake,11.31,5,-1.0
+611,"Juice - Clam, 46 Ozcake",32.77,2,-1.0
+612,Bread Crumbs - Japanese Stylecake,27.34,3,-1.0
+613,"Fish - Atlantic Salmon, Coldcake",65.17,1,-1.0
+614,Island Oasis - Strawberrycake,36.44,5,-1.0
+615,Sugar - Splenda Sweetenercake,97.58,1,-1.0
+616,"Pasta - Orzo, Drycake",24.7,4,-1.0
+617,Soup - Campbells Asian Noodlecake,28.45,5,-1.0
+618,Alize Red Passioncake,85.16,4,-1.0
+619,Chicken - Whole Roastingcake,61.19,2,-1.0
+620,Bag - Clear 7 Lbcake,28.02,1,-1.0
+621,Lentils - Green Le Puycake,18.8,1,-1.0
+622,Olives - Nicoisecake,45.24,1,-1.0
+623,Cheese - Grana Padanocake,1.38,1,-1.0
+624,Temperature Recording Stationcake,12.12,3,-1.0
+625,Cake - Cake Sheet Macarooncake,36.43,1,-1.0
+626,Squash - Sunburstcake,12.11,2,-1.0
+627,Pie Shell - 9cake,26.78,5,-1.0
+628,Wine - Malbec Trapiche Reservecake,76.94,4,-1.0
+629,Bamboo Shoots - Slicedcake,98.81,1,-1.0
+630,Wine - Trimbach Pinot Blanccake,7.11,2,-1.0
+631,Glucosecake,88.39,5,-1.0
+632,Vector Energy Barcake,13.67,4,-1.0
+633,Appetizer - Crab And Briecake,16.87,3,-1.0
+634,Irish Cream - Butterscotchcake,67.22,4,-1.0
+635,"Wine - Niagara,vqa Reislingcake",86.18,2,-1.0
+636,Cup - Paper 10oz 92959cake,71.13,4,-1.0
+637,Cheese - Swisscake,46.59,2,-1.0
+638,Bread Crumbs - Pankocake,5.89,2,-1.0
+639,Wanton Wrapcake,40.36,2,-1.0
+640,Beef - Texas Style Burgercake,94.41,5,-1.0
+641,Milk - 2%cake,59.33,1,-1.0
+642,"Gingerale - Schweppes, 355 Mlcake",72.64,1,-1.0
+643,"Nut - Pine Nuts, Wholecake",9.97,1,-1.0
+644,Beans - Butter Lrg Limacake,57.82,4,-1.0
+645,Sauce - Vodka Blushcake,44.02,4,-1.0
+646,Grapefruit - Whitecake,59.4,5,-1.0
+647,Ecolab - Power Fusioncake,98.07,4,-1.0
+648,Milkettes - 2%cake,81.59,4,-1.0
+649,Beer - Paulaner Hefeweissecake,4.03,4,-1.0
+650,Cake - Pancakecake,5.53,1,-1.0
+651,Towels - Paper / Kraftcake,95.11,4,-1.0
+652,Sherbet - Raspberrycake,79.81,4,-1.0
+653,"Brownies - Two Bite, Chocolatecake",31.93,5,-1.0
+654,Pepper - Jalapenocake,18.14,1,-1.0
+655,Wine - Gewurztraminer Pierrecake,26.84,3,-1.0
+656,Nantucket - 518mlcake,60.35,1,-1.0
+657,Pastry - Cherry Danish - Minicake,74.49,1,-1.0
+658,Pear - Pricklycake,70.43,5,-1.0
+659,V8 - Tropical Blendcake,4.58,4,-1.0
+660,Appetizer - Mango Chevrecake,94.71,3,-1.0
+661,Chocolate - Liqueur Cups With Foilcake,98.44,4,-1.0
+662,Bread - Assorted Rollscake,1.2,5,-1.0
+663,"Turkey - Whole, Freshcake",69.28,1,-1.0
+664,Alize Sunsetcake,2.85,2,-1.0
+665,Calypso - Pineapple Passioncake,53.16,1,-1.0
+666,Appetizer - Seafood Assortmentcake,67.79,2,-1.0
+667,Cake - French Pear Tartcake,47.07,1,-1.0
+668,Water - Perriercake,36.22,1,-1.0
+669,Aspic - Lightcake,24.22,5,-1.0
+670,Bread - English Muffincake,39.45,3,-1.0
+671,"Salmon - Smoked, Slicedcake",40.29,3,-1.0
+672,Pears - Bartlettcake,19.03,5,-1.0
+673,Capers - Pickledcake,88.34,1,-1.0
+674,Chicken - Leg / Back Attachcake,50.56,2,-1.0
+675,Lobster - Basecake,14.28,5,-1.0
+676,Glucosecake,16.61,3,-1.0
+677,Sauce - Mintcake,73.94,2,-1.0
+678,Sage - Groundcake,34.78,2,-1.0
+679,Tea - Herbal Sweet Dreamscake,10.23,1,-1.0
+680,Soup - Campbells Tomato Raviolicake,43.15,1,-1.0
+681,Straw - Regularcake,58.33,3,-1.0
+682,Coriander - Seedcake,73.84,2,-1.0
+683,Bagelerscake,43.07,4,-1.0
+684,Cookie Dough - Doublecake,65.04,4,-1.0
+685,Eggplant - Regularcake,40.39,4,-1.0
+686,Bread - White Epi Baguettecake,99.59,2,-1.0
+687,Clementinecake,15.51,5,-1.0
+688,"Sauce - Bernaise, Mixcake",34.81,1,-1.0
+689,Steampan - Foilcake,89.22,3,-1.0
+690,Vinegar - Red Winecake,67.4,3,-1.0
+691,Cheese - Goudacake,34.96,5,-1.0
+692,Beer - True North Lagercake,12.2,3,-1.0
+693,Cognac - Courvaisiercake,58.16,5,-1.0
+694,"Juice - Tomato, 48 Ozcake",94.78,4,-1.0
+695,"Octopus - Baby, Cleanedcake",73.99,3,-1.0
+696,Curry Paste - Madrascake,25.2,3,-1.0
+697,Thyme - Freshcake,8.6,3,-1.0
+698,Mussels - Frozencake,40.4,5,-1.0
+699,"Shrimp - 21/25, Peel And Devienedcake",84.43,3,-1.0
+700,Cheese - Ermite Bleucake,75.09,3,-1.0
+701,Table Cloth 54x72 Colourcake,60.33,5,-1.0
+702,"Salmon - Atlantic, No Skincake",28.38,5,-1.0
+703,Oven Mitt - 13 Inchcake,73.53,4,-1.0
+704,"Oil - Truffle, Blackcake",77.48,2,-1.0
+705,Pike - Frozen Filletcake,42.06,5,-1.0
+706,Pork - Insidecake,18.68,3,-1.0
+707,Goat - Legcake,13.12,1,-1.0
+708,Tea - Black Currantcake,55.69,1,-1.0
+709,Mussels - Frozencake,52.74,3,-1.0
+710,Pastry - Apple Muffins - Minicake,59.02,1,-1.0
+711,Ostrich - Prime Cutcake,46.15,4,-1.0
+712,Pate - Peppercorncake,67.13,1,-1.0
+713,Plate Pie Foilcake,42.05,4,-1.0
+714,Danishes - Mini Cheesecake,67.85,1,-1.0
+715,Cinnamon - Groundcake,37.54,1,-1.0
+716,Calaloocake,16.05,1,-1.0
+717,Foam Tray S2cake,15.41,5,-1.0
+718,Laundry - Bag Clothcake,59.0,4,-1.0
+719,Duck - Legscake,91.66,3,-1.0
+720,Pork - Livercake,31.53,2,-1.0
+721,"Wine - Harrow Estates, Vidalcake",49.46,5,-1.0
+722,Jolt Cola - Red Eyecake,18.44,1,-1.0
+723,Olive - Spread Tapenadecake,34.33,4,-1.0
+724,"Yeast - Fresh, Fleischmancake",92.14,2,-1.0
+725,"Chocolate - Pistoles, Whitecake",63.23,5,-1.0
+726,Sauce - Caesar Dressingcake,39.44,2,-1.0
+727,Tomatoes Tear Drop Yellowcake,80.62,4,-1.0
+728,Gelatine Powdercake,70.36,2,-1.0
+729,Heavy Duty Dust Pancake,33.44,5,-1.0
+730,Cheese - Roquefort Pappilloncake,17.51,5,-1.0
+731,Potatoes - Idaho 100 Countcake,20.8,3,-1.0
+732,Chips - Miss Vickiescake,26.61,1,-1.0
+733,Bread - Flat Breadcake,1.95,3,-1.0
+734,Versatainer Nc - 8288cake,56.3,5,-1.0
+735,"Salmon - Atlantic, Fresh, Wholecake",76.65,3,-1.0
+736,Cake Sheet Combo Party Packcake,93.7,3,-1.0
+737,Mayonnaisecake,16.09,1,-1.0
+738,Cardamon Seed / Podcake,37.85,3,-1.0
+739,V8 - Tropical Blendcake,94.61,5,-1.0
+740,Banana Turningcake,61.63,3,-1.0
+741,Garam Masala Powdercake,70.08,5,-1.0
+742,Cheese - Goat With Herbscake,23.95,1,-1.0
+743,Bar Nature Valleycake,70.58,2,-1.0
+744,Juice - Cranberry 284mlcake,72.04,1,-1.0
+745,Wine - Duboeuf Beaujolaiscake,63.82,1,-1.0
+746,Ecolab - Lime - A - Way 4/4 Lcake,61.85,4,-1.0
+747,Lotus Rootcake,33.31,1,-1.0
+748,Nantucket Apple Juicecake,10.54,4,-1.0
+749,"Beef - Rib Roast, Caplesscake",93.01,1,-1.0
+750,Steampan - Lid For Half Sizecake,85.93,1,-1.0
+751,Cookies Almond Hazelnutcake,35.55,3,-1.0
+752,Pork - Suckling Pigcake,52.96,4,-1.0
+753,Kaffir Lime Leavescake,78.56,3,-1.0
+754,Appetiser - Boughtcake,23.7,5,-1.0
+755,Salt - Seasonedcake,50.16,3,-1.0
+756,Bread - Focaccia Quartercake,1.72,5,-1.0
+757,Piping - Bags Quiznacake,54.41,3,-1.0
+758,"Tarragon - Primerba, Pastecake",98.1,1,-1.0
+759,Soup - Campbells Chilicake,61.13,5,-1.0
+760,"Wine - Mas Chicet Rose, Vintagecake",11.73,3,-1.0
+761,Oven Mitts - 15 Inchcake,45.24,2,-1.0
+762,Flour - Teffcake,96.75,3,-1.0
+763,Wine - Chardonnay Mondavicake,37.91,4,-1.0
+764,Cheese - Okacake,26.34,5,-1.0
+765,Tofu - Firmcake,42.89,4,-1.0
+766,Ham - Virginiacake,22.4,5,-1.0
+767,Vinegar - Ricecake,29.74,5,-1.0
+768,Quail - Jumbocake,99.98,3,-1.0
+769,"Shrimp - 16 - 20 Cooked, Peeledcake",58.03,5,-1.0
+770,Blueberries - Frozencake,75.27,4,-1.0
+771,Raisin - Goldencake,97.21,5,-1.0
+772,Salt - Tablecake,25.29,5,-1.0
+773,Peas Snowcake,45.68,3,-1.0
+774,Paper Towel Touchlesscake,67.36,5,-1.0
+775,Straw - Regularcake,75.7,1,-1.0
+776,Thyme - Freshcake,13.96,5,-1.0
+777,Dasheencake,47.74,5,-1.0
+778,Cheese - Parmesan Cubescake,91.21,5,-1.0
+779,Jam - Apricotcake,22.03,3,-1.0
+780,"Wine - Red, Lurton Merlot Decake",12.15,2,-1.0
+781,Container - Foam Dixie 12 Ozcake,3.5,5,-1.0
+782,Napkin Colourcake,95.66,4,-1.0
+783,Beer - Blue Lightcake,22.16,5,-1.0
+784,"Lamb - Racks, Frenchedcake",44.6,5,-1.0
+785,Cheese - St. Paulincake,96.19,2,-1.0
+786,Bay Leafcake,81.48,2,-1.0
+787,Butter Sweetcake,81.78,1,-1.0
+788,Turnip - Minicake,44.21,3,-1.0
+789,Meldea Green Tea Liquorcake,21.46,5,-1.0
+790,Icecream - Dstk Cml And Fdgcake,51.31,5,-1.0
+791,Beer - Creemorecake,37.42,4,-1.0
+792,Beef - Tenderloin - Aacake,79.91,3,-1.0
+793,"Beef - Bones, Cut - Upcake",66.82,2,-1.0
+794,Waffle Stixcake,44.92,3,-1.0
+795,Cookie - Oreo 100x2cake,28.26,2,-1.0
+796,Melon - Cantaloupecake,80.32,3,-1.0
+797,Chives - Freshcake,74.63,5,-1.0
+798,Honey - Liquidcake,54.45,2,-1.0
+799,Apple - Northern Spycake,26.16,1,-1.0
+800,"Lid - High Heat, Super Clearcake",87.22,5,-1.0
+801,Syrup - Monin - Passion Fruitcake,98.34,2,-1.0
+802,Icecream Bar - Del Montecake,72.86,2,-1.0
+803,Stock - Fishcake,61.87,5,-1.0
+804,Pastry - Banana Muffin - Minicake,3.17,1,-1.0
+805,"Wine - White, Chardonnaycake",26.42,3,-1.0
+806,Water - Aquafina Vitamincake,19.49,5,-1.0
+807,Bacardi Mojitocake,81.75,2,-1.0
+808,Frangelicocake,1.6,1,-1.0
+809,Chocolate Liqueur - Godet Whitecake,43.18,4,-1.0
+810,Cleaner - Lime Awaycake,78.31,1,-1.0
+811,Beer - Heinekincake,57.26,4,-1.0
+812,Cheese - Goatcake,91.19,4,-1.0
+813,Wine - Guy Sage Tourainecake,35.22,3,-1.0
+814,Bread Crumbs - Japanese Stylecake,13.97,5,-1.0
+815,Mustard - Dijoncake,64.75,1,-1.0
+816,"Sauce - Bernaise, Mixcake",37.93,2,-1.0
+817,Kumquatcake,14.58,1,-1.0
+818,Apricots - Driedcake,88.68,3,-1.0
+819,Vinegar - Sherrycake,50.26,4,-1.0
+820,Pastry - Choclate Bakedcake,18.9,1,-1.0
+821,Wine - Wyndham Estate Bin 777cake,57.9,1,-1.0
+822,"Seedlings - Mix, Organiccake",47.65,2,-1.0
+823,Chinese Foods - Thick Noodlescake,64.8,4,-1.0
+824,Wine - Marlbourough Sauv Blanccake,78.75,2,-1.0
+825,Container Clear 8 Ozcake,15.67,2,-1.0
+826,Wine - Shiraz South Easterncake,84.64,4,-1.0
+827,"Mushroom - Enoki, Freshcake",64.9,2,-1.0
+828,Pepsi - 600mlcake,35.15,1,-1.0
+829,Veal - Osso Buccocake,7.29,5,-1.0
+830,"Stock - Beef, Browncake",82.46,5,-1.0
+831,"Beef - Ox Tail, Frozencake",29.12,5,-1.0
+832,Rappini - Andy Boycake,89.85,5,-1.0
+833,Beans - Frenchcake,57.72,2,-1.0
+834,Bread - Petit Baguettecake,40.72,4,-1.0
+835,Mince Meat - Fillingcake,38.54,3,-1.0
+836,"Veal - Round, Eye Ofcake",63.67,5,-1.0
+837,Plasticknivesblackcake,70.6,1,-1.0
+838,Muffin Batt - Choc Chkcake,81.49,1,-1.0
+839,Beef - Sushi Flat Iron Steakcake,55.9,4,-1.0
+840,Devonshire Creamcake,54.15,4,-1.0
+841,Cheese - Grie Des Champcake,46.76,2,-1.0
+842,"Pepper - Green, Chilicake",1.43,1,-1.0
+843,Bread - Burgercake,39.92,2,-1.0
+844,Tea - Lemon Green Teacake,51.2,5,-1.0
+845,Vinegar - Balsamiccake,14.53,1,-1.0
+846,Tea - Grapefruit Green Teacake,9.95,5,-1.0
+847,"Apple - Delicious, Goldencake",28.65,4,-1.0
+848,Butter Ripple - Phillipscake,58.45,2,-1.0
+849,"Halibut - Whole, Freshcake",60.97,1,-1.0
+850,Ketchup - Tomatocake,57.35,2,-1.0
+851,Cake - French Pear Tartcake,26.78,3,-1.0
+852,Puree - Passion Fruitcake,67.83,1,-1.0
+853,Chocolate Bar - Reese Piecescake,55.29,1,-1.0
+854,V8 - Berry Blendcake,89.51,4,-1.0
+855,Chives - Freshcake,46.9,5,-1.0
+856,Muffin Batt - Choc Chkcake,47.47,3,-1.0
+857,Sausage - Chorizocake,96.88,2,-1.0
+858,Spice - Peppercorn Melangecake,74.88,1,-1.0
+859,"Cup - 6oz, Foamcake",84.86,1,-1.0
+860,"Tabasco Sauce, 2 Ozcake",49.1,5,-1.0
+861,Lime Cordial - Rosescake,33.33,3,-1.0
+862,"Stock - Beef, Browncake",52.15,2,-1.0
+863,Cheese - Swiss Slicedcake,61.11,4,-1.0
+864,Milk - Homocake,58.44,2,-1.0
+865,Appetizer - Asian Shrimp Rollcake,63.48,2,-1.0
+866,Sauce - Salsacake,58.84,4,-1.0
+867,"Syrup - Monin, Swiss Choclatecake",95.91,4,-1.0
+868,Energy Drink Bawlscake,82.72,4,-1.0
+869,Pepper - Red Chilicake,38.38,1,-1.0
+870,Gatorade - Orangecake,99.91,1,-1.0
+871,Spinach - Babycake,93.15,4,-1.0
+872,Ginsing - Freshcake,2.87,2,-1.0
+873,Kellogs Raisan Bran Barscake,65.39,2,-1.0
+874,Pepper - Scotch Bonnetcake,22.31,1,-1.0
+875,Rabbit - Frozencake,24.74,5,-1.0
+876,Plaintaincake,70.7,3,-1.0
+877,Horseradish - Preparedcake,41.53,1,-1.0
+878,Puree - Passion Fruitcake,51.41,1,-1.0
+879,Mushroom - White Buttoncake,68.81,1,-1.0
+880,Nut - Pumpkin Seedscake,9.5,1,-1.0
+881,Pastry - Apple Largecake,8.03,2,-1.0
+882,Cattail Heartscake,38.57,5,-1.0
+883,"Oil - Shortening,liqud, Frycake",51.82,3,-1.0
+884,Samosa - Vegcake,25.06,1,-1.0
+885,Snapple Lemon Teacake,55.6,1,-1.0
+886,Tea - Grapefruit Green Teacake,12.07,3,-1.0
+887,Eggrollcake,84.31,4,-1.0
+888,Halibut - Fletchescake,57.27,2,-1.0
+889,Curry Paste - Green Masalacake,42.97,4,-1.0
+890,"Wine - White, Pinot Grigiocake",92.53,5,-1.0
+891,Soup V8 Roasted Red Peppercake,45.62,1,-1.0
+892,"Coke - Diet, 355 Mlcake",89.23,4,-1.0
+893,Icecream - Dstk Super Conecake,69.36,5,-1.0
+894,Ostrich - Prime Cutcake,66.29,4,-1.0
+895,Soup - Cream Of Broccolicake,6.52,1,-1.0
+896,Bouillion - Fishcake,70.41,3,-1.0
+897,"Juice - V8, Tomatocake",99.86,3,-1.0
+898,"Wine - Magnotta - Red, Bacocake",62.84,2,-1.0
+899,Capers - Ox Eye Daisycake,7.71,2,-1.0
+900,"Crab - Claws, 26 - 30cake",9.37,3,-1.0
+901,Island Oasis - Magarita Mixcake,85.04,4,-1.0
+902,Worcestershire Saucecake,2.54,1,-1.0
+903,Sage Ground Wibergcake,64.68,4,-1.0
+904,Towels - Paper / Kraftcake,68.77,5,-1.0
+905,Graham Cracker Mixcake,55.36,1,-1.0
+906,Aspic - Lightcake,17.64,3,-1.0
+907,Towels - Paper / Kraftcake,38.61,1,-1.0
+908,Cocoa Powder - Dutchedcake,47.87,2,-1.0
+909,"Tendrils - Baby Pea, Organiccake",17.52,5,-1.0
+910,Chips - Assortedcake,74.79,5,-1.0
+911,Longos - Chicken Wingscake,29.03,2,-1.0
+912,Chick Peas - Driedcake,28.34,3,-1.0
+913,Monkfish Fresh - Skin Offcake,80.43,1,-1.0
+914,Apple - Northern Spycake,10.5,5,-1.0
+915,Corn Mealcake,2.05,3,-1.0
+916,Pepperoni Slicescake,69.91,5,-1.0
+917,"Beans - Kidney, Red Drycake",83.01,2,-1.0
+918,Wine - Jackson Triggs Okonagancake,35.67,2,-1.0
+919,Muffin Batt - Carrot Spicecake,80.1,3,-1.0
+920,Crush - Cream Sodacake,68.42,2,-1.0
+921,"Veal - Round, Eye Ofcake",35.38,2,-1.0
+922,Flower - Carnationscake,89.1,4,-1.0
+923,Pike - Frozen Filletcake,59.92,5,-1.0
+924,Table Cloth 90x90 Colourcake,69.48,2,-1.0
+925,"Lamb - Leg, Dicedcake",74.02,2,-1.0
+926,Cape Capensis - Filletcake,82.42,5,-1.0
+927,Truffle Cups - White Papercake,96.79,1,-1.0
+928,Appetizer - Southwesterncake,21.2,2,-1.0
+929,"Pepper - White, Groundcake",55.93,2,-1.0
+930,Roe - Flying Fishcake,3.04,1,-1.0
+931,Blue Curacao - Marie Brizardcake,7.71,2,-1.0
+932,Lid - 3oz Med Reccake,22.97,1,-1.0
+933,Steam Pan - Half Size Deepcake,36.78,5,-1.0
+934,Wine - Barossa Valley Estatecake,71.35,4,-1.0
+935,Soup - Tomato Mush. Florentinecake,64.13,1,-1.0
+936,Cape Capensis - Filletcake,84.83,4,-1.0
+937,"Yogurt - Banana, 175 Grcake",94.62,4,-1.0
+938,"Nut - Pine Nuts, Wholecake",51.41,4,-1.0
+939,Wine - Hardys Bankside Shirazcake,44.13,3,-1.0
+940,"Wine - Mas Chicet Rose, Vintagecake",54.68,3,-1.0
+941,"Cheese - Brie, Triple Cremecake",92.99,5,-1.0
+942,Chocolate Eclairscake,60.13,1,-1.0
+943,V8 Splash Strawberry Kiwicake,11.9,1,-1.0
+944,"Marjoram - Dried, Rubbedcake",96.28,1,-1.0
+945,Beef - Sushi Flat Iron Steakcake,87.63,4,-1.0
+946,Cabbage - Redcake,12.96,5,-1.0
+947,Bulgarcake,94.23,4,-1.0
+948,"Oil - Olive, Extra Virgincake",37.91,2,-1.0
+949,Shopper Bag - S - 4cake,97.58,5,-1.0
+950,Truffle Shells - White Chocolatecake,15.9,3,-1.0
+951,Wine - Black Tower Qrcake,3.73,1,-1.0
+952,Prunes - Pittedcake,2.87,3,-1.0
+953,Wine - Sogrape Mateus Rosecake,86.52,4,-1.0
+954,External Suppliercake,2.3,1,-1.0
+955,"Chocolate - Semi Sweet, Caletscake",54.77,2,-1.0
+956,Pork - Kidneycake,93.57,2,-1.0
+957,"Beef - Ox Tongue, Pickledcake",23.9,2,-1.0
+958,Energy - Boo - Koocake,17.4,4,-1.0
+959,Tea - Camomelecake,70.61,5,-1.0
+960,Cumin - Wholecake,72.15,5,-1.0
+961,Absolut Citroncake,6.81,5,-1.0
+962,Table Cloth 54x72 Whitecake,94.15,3,-1.0
+963,Muffin - Mix - Creme Brule 15lcake,91.18,4,-1.0
+964,Pate Pans Yellowcake,6.92,3,-1.0
+965,Spinach - Babycake,58.15,3,-1.0
+966,"Napkin - Cocktail,beige 2 - Plycake",16.08,2,-1.0
+967,Bread - English Muffincake,61.94,3,-1.0
+968,Jolt Cola - Red Eyecake,6.63,4,-1.0
+969,"Soup - Knorr, Ministronecake",15.86,3,-1.0
+970,Carbonated Water - Blackberrycake,80.54,4,-1.0
+971,Energy Drink Bawlscake,85.79,5,-1.0
+972,Longos - Grilled Veg Sandwichescake,82.13,1,-1.0
+973,Haggiscake,32.41,5,-1.0
+974,Gatorade - Xfactor Berrycake,76.37,3,-1.0
+975,Vinegar - Red Winecake,39.09,4,-1.0
+976,Russian Princecake,86.33,2,-1.0
+977,"Bread - Rolls, Corncake",68.25,3,-1.0
+978,Veal - Bonescake,75.36,4,-1.0
+979,Sunflower Seed Rawcake,20.38,5,-1.0
+980,Dried Figscake,30.62,4,-1.0
+981,Cabbage - Savoycake,80.67,5,-1.0
+982,Table Cloth 91x91 Colourcake,81.66,2,-1.0
+983,Cheese - Montery Jackcake,9.96,3,-1.0
+984,"Tendrils - Baby Pea, Organiccake",87.81,4,-1.0
+985,Gatorade - Orangecake,82.1,5,-1.0
+986,Wine - Cotes Du Rhonecake,58.1,3,-1.0
+987,Ecolab - Medallioncake,38.92,3,-1.0
+988,Soup Campbells Turkey Veg.cake,71.01,3,-1.0
+989,Lamb - Rackcake,28.3,4,-1.0
+990,"Gingerale - Schweppes, 355 Mlcake",77.82,5,-1.0
+991,"Pasta - Cappellini, Drycake",47.6,1,-1.0
+992,Vinegar - Sherrycake,14.11,5,-1.0
+993,Tart - Pecan Butter Squarescake,77.35,1,-1.0
+994,Bok Choy - Babycake,65.59,3,-1.0
+995,Wine - Jackson Triggs Okonagancake,38.36,5,-1.0
+996,Flour Pastry Super Finecake,75.57,3,-1.0
+997,Eggs - Extra Largecake,81.45,3,-1.0
+998,Barramundicake,93.94,5,-1.0
+999,Shichimi Togarashi Peppeerscake,54.42,2,-1.0
+1000,"Veal - Tenderloin, Untrimmedcake",90.23,1,-1.0

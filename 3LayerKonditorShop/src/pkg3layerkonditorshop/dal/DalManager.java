@@ -16,7 +16,7 @@ import pkg3layerkonditorshop.be.Produkt;
 public class DalManager {
     public List<Produkt> getAllProdukts()
     {
-        ArrayList<Produkt> pList = new ArrayList();
+        List<Produkt> pList = new ArrayList();
         
         Produkt flødeKage = new Produkt();
         flødeKage.setKostPris(3.6);

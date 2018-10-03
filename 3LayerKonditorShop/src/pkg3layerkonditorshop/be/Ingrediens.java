@@ -9,6 +9,31 @@ package pkg3layerkonditorshop.be;
  *
  * @author jeppjleemoritzled
  */
-class Ingrediens {
+public class Ingrediens {
     
+    private String navn;
+
+    private double mængde;
+
+    public Ingrediens(String navn, double mængde) {
+        this.navn = navn;
+        this.mængde = mængde;
+    }
+
+    public double getMængde() {
+        return mængde;
+    }
+
+    public void setMængde(double mængde) {
+        this.mængde = mængde;
+    }
+
+    public String getNavn() {
+        return navn;
+    }
+
+    public void setNavn(String navn) {
+        this.navn = navn;
+    }
+
 }
