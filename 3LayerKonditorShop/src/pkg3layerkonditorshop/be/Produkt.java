@@ -6,6 +6,7 @@
 package pkg3layerkonditorshop.be;
 
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -18,7 +19,7 @@ public class Produkt{
     private double kostPris;
     private int popularitet;
     private String navn;
-    private List<Ingrediens> ingredienser;
+    private List<Ingrediens> ingredienser = new ArrayList();
 
     public Produkt() {
     }

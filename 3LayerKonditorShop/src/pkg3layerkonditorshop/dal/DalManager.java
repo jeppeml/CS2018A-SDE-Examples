@@ -16,6 +16,7 @@ import pkg3layerkonditorshop.be.Produkt;
 public class DalManager {
     public List<Produkt> getAllProdukts()
     {
+        /*
         List<Produkt> pList = new ArrayList();
         
         Produkt flødeKage = new Produkt();
@@ -36,5 +37,8 @@ public class DalManager {
         pList.add(flødeKage);
         pList.add(jordbærKage);
         return pList;
+        */
+        return FileManager.getInstance().getAllProducts();
+        
     }
 }
