@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="689.0" prefWidth="843.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.2" fx:controller="prisonapp.AppController">
+   <children>
+      <ComboBox fx:id="dropdownFængsler" layoutX="98.0" layoutY="121.0" onAction="#clickFængsler" prefHeight="27.0" prefWidth="292.0" />
+      <ListView fx:id="listIndsatte" layoutX="98.0" layoutY="180.0" prefHeight="200.0" prefWidth="292.0" />
+      <ListView fx:id="listAnsatte" layoutX="98.0" layoutY="418.0" prefHeight="200.0" prefWidth="292.0" />
+      <TextArea fx:id="txtOplysninger" layoutX="432.0" layoutY="135.0" prefHeight="200.0" prefWidth="393.0" />
+      <TextArea fx:id="txtHemmelig" layoutX="432.0" layoutY="380.0" prefHeight="200.0" prefWidth="393.0" />
+      <Label layoutX="64.0" text="Fængsels App :)">
+         <font>
+            <Font size="96.0" />
+         </font>
+      </Label>
+      <Label layoutX="98.0" layoutY="104.0" text="Fængsel" />
+      <Label layoutX="97.0" layoutY="156.0" text="Indsatte" />
+      <Label layoutX="98.0" layoutY="392.0" text="Ansatte" />
+      <Label layoutX="432.0" layoutY="357.0" text="Hemmelige oplysninger" />
+      <Label layoutX="432.0" layoutY="104.0" text="Oplysninger" />
+      <Label layoutX="432.0" layoutY="596.0" text="Indsat" />
+      <Label fx:id="lblIndsat" layoutX="479.0" layoutY="596.0" text="Label" />
+      <Label layoutX="432.0" layoutY="625.0" text="Fri" />
+      <Label fx:id="lblFri" layoutX="479.0" layoutY="625.0" text="Label" />
+      <Label layoutX="784.0" layoutY="6.0" text="Peter S." />
+   </children>
+</AnchorPane>
