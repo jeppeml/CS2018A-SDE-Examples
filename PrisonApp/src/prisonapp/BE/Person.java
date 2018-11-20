@@ -29,6 +29,13 @@ public abstract class Person {
     public void setNavn(String navn) {
         this.navn = navn;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" + "cpr=" + cpr + ", navn=" + navn + '}';
+    }
+    
+    
     
     
 }

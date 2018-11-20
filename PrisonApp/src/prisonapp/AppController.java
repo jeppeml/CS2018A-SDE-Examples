@@ -6,8 +6,10 @@
 package prisonapp;
 
 import java.net.URL;
-import java.util.ArrayList;
 import java.util.ResourceBundle;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -35,33 +37,24 @@ public class AppController implements Initializable {
     @FXML
     private Label lblFri;
     
-    ArrayList<Fængsel> fængsler = new ArrayList();
-    
+    PrisonModel model = new PrisonModel();
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        createData();
+        
+        listAnsatte.setItems(model.getValgteAnsatte());
     }    
 
-    private void createData()
-    {
-        Fængsel fængsel = new Fængsel();
-        
-        Indsat a = new Indsat("230450-1765", "Piotre Stegre");
-        Indsat b = new Indsat("170988-4321", "Pierre Steegher");
-        
-        fængsel.addIndsat(a);
-        fængsel.addIndsat(b);
-        
-        Ansat ansat = new Ansat("210145-2342", "Petergine Steganosis");
-        fængsel.addAnsat(ansat);
-        
-        listIndsatte.getItems().addAll(fængsel.getIndsatte());
-        listAnsatte.getItems().addAll(fængsel.getAnsatte());
-    }
     
     @FXML
     private void clickFængsler(ActionEvent event) {
+        
+    }
+
+    @FXML
+    private void clickIndsæt(ActionEvent event) {
+        
+        model.tilføjAnsat();
     }
     
 }
