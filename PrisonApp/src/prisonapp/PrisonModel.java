@@ -21,6 +21,7 @@ public class PrisonModel {
     private ObservableList<Indsat> valgteIndsatte;
     
     
+    
     public PrisonModel() {
         PrisonDAO pdao = new PrisonDAOMock();
         fængsler = FXCollections.observableArrayList(pdao.getFængsler()); // henter første fængsel
