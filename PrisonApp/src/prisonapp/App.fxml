@@ -4,6 +4,8 @@
 <?import javafx.scene.control.ComboBox?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
 <?import javafx.scene.control.TextArea?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
@@ -14,7 +16,6 @@
       <ListView fx:id="listIndsatte" layoutX="98.0" layoutY="180.0" prefHeight="200.0" prefWidth="292.0" />
       <ListView fx:id="listAnsatte" layoutX="98.0" layoutY="418.0" prefHeight="200.0" prefWidth="292.0" />
       <TextArea fx:id="txtOplysninger" layoutX="432.0" layoutY="135.0" prefHeight="200.0" prefWidth="393.0" />
-      <TextArea fx:id="txtHemmelig" layoutX="432.0" layoutY="380.0" prefHeight="200.0" prefWidth="393.0" />
       <Label layoutX="64.0" text="Fængsels App :)">
          <font>
             <Font size="96.0" />
@@ -31,5 +32,11 @@
       <Label fx:id="lblFri" layoutX="479.0" layoutY="625.0" text="Label" />
       <Label layoutX="784.0" layoutY="6.0" text="Peter S." />
       <Button layoutX="629.0" layoutY="591.0" mnemonicParsing="false" onAction="#clickIndsæt" prefHeight="69.0" prefWidth="195.0" text="Indsæt ansat" />
+      <TableView fx:id="lstTable" layoutX="433.0" layoutY="380.0" prefHeight="200.0" prefWidth="393.0">
+        <columns>
+          <TableColumn fx:id="colCpr" prefWidth="114.0" text="CPR Nummer" />
+          <TableColumn fx:id="colNavn" minWidth="0.0" prefWidth="267.0" text="Navn" />
+        </columns>
+      </TableView>
    </children>
 </AnchorPane>

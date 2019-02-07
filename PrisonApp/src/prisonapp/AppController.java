@@ -28,18 +28,25 @@ public class AppController implements Initializable {
     @FXML
     private TextArea txtOplysninger;
     @FXML
-    private TextArea txtHemmelig;
-    @FXML
     private Label lblIndsat;
     @FXML
     private Label lblFri;
     
     PrisonModel model = new PrisonModel();
     
+    @FXML
+    private TableView<Ansat> lstTable;
+    @FXML
+    private TableColumn<Ansat, String> colCpr;
+    @FXML
+    private TableColumn<Ansat, String> colNavn;
+    
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         
         listAnsatte.setItems(model.getValgteAnsatte());
+        
+        
     }    
 
     
@@ -50,7 +57,6 @@ public class AppController implements Initializable {
 
     @FXML
     private void clickIndsæt(ActionEvent event) {
-        
         model.tilføjAnsat();
     }
     

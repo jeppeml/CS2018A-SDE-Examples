@@ -33,3 +33,6 @@ hs_err_pid*
 /PrisonApp/nbproject/private/
 /PrisonApp/dist/
 /PrisonApp/build/
+/MockExample/nbproject/private/
+/MockExample/build/
+/MockExample/dist/

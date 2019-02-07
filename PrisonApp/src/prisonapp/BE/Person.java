@@ -32,7 +32,7 @@ public abstract class Person {
 
     @Override
     public String toString() {
-        return "Person{" + "cpr=" + cpr + ", navn=" + navn + '}';
+        return cpr + "\t\t "+ navn;
     }
     
     

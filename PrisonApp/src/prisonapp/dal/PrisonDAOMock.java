@@ -19,7 +19,14 @@ public class PrisonDAOMock implements PrisonDAO {
     {
         List<Ansat> ansatte = new ArrayList();
         Ansat ansat = new Ansat("210145-2342", "Petergine Steganosis");
+        Ansat ansat1 = new Ansat("3938452-3345", "Jørgen Jørgensen");
+        Ansat ansat2 = new Ansat("2344525-3456", "Peter Petersen");
+        Ansat ansat3 = new Ansat("7736846-3245", "Jens Jensen");
+        
         ansatte.add(ansat);
+        ansatte.add(ansat1);
+        ansatte.add(ansat2);
+        ansatte.add(ansat3);
         return ansatte;
     }
     
