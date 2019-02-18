@@ -7,6 +7,9 @@ package mockexample;
 
 import java.net.URL;
 import java.util.ResourceBundle;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javafx.application.Platform;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -35,16 +38,33 @@ public class MainController implements Initializable {
     
     
     @FXML
-    private void handleButtonAction(ActionEvent event) {
-        System.out.println("You clicked me!");
+    private void handleButtonAction(ActionEvent event)  {
+        Thread t = new Thread(()->{
+            try {
+                Thread.sleep(10_000);
+                Platform.runLater(()->{
+                    persons.clear();
+                    persons.addAll(df.getAllPersons());
+                });
+                
+            }
+            catch (InterruptedException ex) {
+                Logger.getLogger(MainController.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            System.out.println("Færdig arbejde");
+        });
+        t.start();
+        
         label.setText("Hello World!");
-        persons.clear();
-        persons.addAll(df.getAllPersons());
+        
+        
     }
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         lstPersons.setItems(persons);
+        Person p = new Person();
+        label.textProperty().bindBidirectional(p.nameProperty());
     }    
     
 }

@@ -31,6 +31,8 @@ public class Person {
     public StringProperty nameProperty() {
         return name;
     }
+
+   
     
     public String getCpr() {
         return cpr.get();
