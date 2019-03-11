@@ -36,3 +36,10 @@ hs_err_pid*
 /MockExample/nbproject/private/
 /MockExample/build/
 /MockExample/dist/
+/DatabaseTransactions/nbproject/private/
+/DatabaseTransactions/build/
+/DatabaseTransactions/dist/
+/SingleTonDependency/nbproject/private/
+/SingleTonDependency/build/
+/CompositeDiscussion/nbproject/private/
+/CompositeDiscussion/build/
