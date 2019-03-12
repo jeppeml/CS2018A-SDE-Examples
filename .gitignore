@@ -43,3 +43,5 @@ hs_err_pid*
 /SingleTonDependency/build/
 /CompositeDiscussion/nbproject/private/
 /CompositeDiscussion/build/
+/CompositeExample2/nbproject/private/
+/CompositeExample2/build/
